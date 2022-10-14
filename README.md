@@ -9,3 +9,5 @@ This repository contains codes and data used in the following paper:
 Circular statistics from the Mathematica notebook have also been included in a Jupyter notebook, "circular data functions.ipynb".
 
 "LFP analysis emd.ipynb" is a Jupyter notebook with examples of how the LFP analysis was performed. Recording channels (wideband signals, downsampled to 1.25 kHz) are exported from Spike2 as ".mat" files (MATLAB version 6 format). Example files included in this repository: TV136, TV139, TV140, TV145, TV153.
+
+"electrophysiology data" and "probe data" Excel files contain data on the glass extracellular recordings and silicon probe recordings, respectively.
